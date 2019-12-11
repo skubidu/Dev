@@ -21,12 +21,13 @@ pygmentscodefencesguesssyntax = true
     keywords = "blog,developer,AI,ML,BI,DataScience"
     info = ""
     avatarurl = ""
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     dateformat = "January 2, 2006"
 
     hideCredits = true
     hideCopyright = true
+
 
     # Git Commit in Footer, uncomment the line below to enable it.
     #commit = "https://github.com/luizdepra/hugo-coder/tree/"
