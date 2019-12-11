@@ -1,7 +1,7 @@
 ---
 title: "Python Print"
 date: 2019-12-10T18:42:54+01:00
-draft: true
+draft: false
 ---
 
 ## Python Print
